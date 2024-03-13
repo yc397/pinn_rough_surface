@@ -2,7 +2,7 @@
 
 The repository contains the codes of physics-informed neural network (PINN) for reconstructing 1D rough srufaces.
 
-There are two folders corresponding to two types of waves (TE and TM); in each folder.
+There are two folders corresponding to two types of waves (TE and TM);
 For each type of wave, two cases are considered:
 
 case A: reconstruction with full scattered data
